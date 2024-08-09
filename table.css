@@ -1,0 +1,37 @@
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    border: 5px solid green;
+
+
+}
+
+td, th {
+    border: solid red;
+    text-align: center;
+    padding: 8px;
+}
+
+td:hover {
+    background-color: lightcoral;
+    color: rgb(10, 8, 10);
+
+}
+
+div {
+    background-color: gold;
+    width: 500px;
+    height: 500px;
+    animation-name: Music;
+    animation-duration: 10s;
+
+  }
+
+  @keyframes Music {
+    0% {background-color: gold;}
+    25% {background-color: goldenrod;}
+    50% {background-color: yellow;}
+    100% {background-color: purple;}
+
+  }
