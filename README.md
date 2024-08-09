@@ -29,5 +29,5 @@ HTML Requirements
 CSS Requirements
 ● Inline, internal, and external styling are being used.
 ● Five different CSS selectors are used.
-● Flexbox is used to create the navigation bar.
+● Flexbox is being used.
 ● At least two CSS animations are being used.
